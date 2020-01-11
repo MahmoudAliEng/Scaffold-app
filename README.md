@@ -1,4 +1,4 @@
-# scafold_app
+# Scaffold_app
 
 Learning scafolds.
 
